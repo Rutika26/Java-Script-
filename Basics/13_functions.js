@@ -69,3 +69,4 @@ function calculateCartPrice(val1, val2, ...num1){
   
   console.log(returnSecondValue(myNewArray));
   console.log(returnSecondValue([200, 400, 500, 1000]));
+  console.log(returnSecondValue([200, 400, 500, 1000]));
